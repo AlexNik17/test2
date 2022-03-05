@@ -2,11 +2,12 @@ body {
     background-color: rgb(111, 214, 142);
 }
 i {
-    color: rgb(7, 40, 59);
+    color: rgb(31, 7, 59);
 }
 p {
     font-size: 18px;
 }
 strong {
     color: #fff;
+    line-height: 30;
 }
